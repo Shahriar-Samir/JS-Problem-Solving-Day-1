@@ -6,7 +6,7 @@ const characterOccurrences = (str,char)=>{
 
 console.log(characterOccurrences('Samirii','i'))
 
-// sort version
+// short version
 
 const occurrences = (str,char)=> str.split(char).length-1
 
