@@ -8,4 +8,4 @@ const primeNumber = (num)=>{
     return true
 }
 
-console.log(primeNumber(10))
+console.log(primeNumber(9))
