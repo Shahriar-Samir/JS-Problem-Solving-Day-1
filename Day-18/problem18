@@ -1,0 +1,5 @@
+function fillThePond(nums){
+	return nums.reduce((acc,n)=> Math.abs(n)+acc);
+}
+
+console.log(fillThePond([-58, -83, -81, -80, -57, -97]))
