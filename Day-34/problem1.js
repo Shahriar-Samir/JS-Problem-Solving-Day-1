@@ -1,0 +1,1 @@
+const palidrome = (str)=> str.split('').reverse().join('') === str
